@@ -1,0 +1,12 @@
+[submodule "layers/meta-gplv2"]
+	path = layers/meta-gplv2
+	url = git@github.com:lgirdk/meta-gplv2.git
+	branch = kirkstone
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = kirkstone
+[submodule "layers/meta-tegra"]
+	path = layers/meta-tegra
+	url = https://github.com/OE4T/meta-tegra.git
+	branch = kirkstone-l4t-r32.7.x
